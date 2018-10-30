@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/data/header.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+              <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -152,7 +152,7 @@
       <workItem from="1540890938724" duration="18257000" />
       <workItem from="1540925772279" duration="1739000" />
       <workItem from="1540927860942" duration="10913000" />
-      <workItem from="1540939270541" duration="103000" />
+      <workItem from="1540939270541" duration="218000" />
     </task>
     <task id="LOCAL-00001" summary="xml_">
       <created>1540836096242</created>
@@ -273,11 +273,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540938697530</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="tel: href">
+      <created>1540939415274</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1540939415274</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44107000" />
+    <option name="totallyTimeSpent" value="44222000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,7 +373,8 @@
     <MESSAGE value="dropdown-primary" />
     <MESSAGE value="return back primary" />
     <MESSAGE value="mx-auto" />
-    <option name="LAST_COMMIT_MESSAGE" value="mx-auto" />
+    <MESSAGE value="tel: href" />
+    <option name="LAST_COMMIT_MESSAGE" value="tel: href" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -644,7 +652,7 @@
     <entry file="file://$PROJECT_DIR$/data/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
         </state>
       </provider>
     </entry>
