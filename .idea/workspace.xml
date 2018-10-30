@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="67087c1b-aedf-4c25-91ec-17c5ddd8ce3e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/header.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            <state relative-caret-position="289">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -160,7 +161,7 @@
       <workItem from="1540835695573" duration="851000" />
       <workItem from="1540890938724" duration="18257000" />
       <workItem from="1540925772279" duration="1739000" />
-      <workItem from="1540927860942" duration="3421000" />
+      <workItem from="1540927860942" duration="3635000" />
     </task>
     <task id="LOCAL-00001" summary="xml_">
       <created>1540836096242</created>
@@ -211,11 +212,25 @@
       <option name="project" value="LOCAL" />
       <updated>1540930735973</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="WhatsApp link edit">
+      <created>1540931363641</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540931363641</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update logo">
+      <created>1540931444899</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540931444899</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36512000" />
+    <option name="totallyTimeSpent" value="36726000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,7 +313,8 @@
     <MESSAGE value="viber chat edit" />
     <MESSAGE value=" chat label edit" />
     <MESSAGE value="WhatsApp link edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="WhatsApp link edit" />
+    <MESSAGE value="update logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="update logo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -544,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        <state relative-caret-position="289">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
