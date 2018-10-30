@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="67087c1b-aedf-4c25-91ec-17c5ddd8ce3e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/header.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="39" column="97" selection-start-line="39" selection-start-column="97" selection-end-line="39" selection-end-column="97" />
+            <state relative-caret-position="255">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -38,8 +37,8 @@
       <file leaf-file-name="myApp.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/myApp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="102">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -161,7 +160,7 @@
       <workItem from="1540835695573" duration="851000" />
       <workItem from="1540890938724" duration="18257000" />
       <workItem from="1540925772279" duration="1739000" />
-      <workItem from="1540927860942" duration="2193000" />
+      <workItem from="1540927860942" duration="3421000" />
     </task>
     <task id="LOCAL-00001" summary="xml_">
       <created>1540836096242</created>
@@ -198,11 +197,25 @@
       <option name="project" value="LOCAL" />
       <updated>1540930011369</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" chat label edit">
+      <created>1540930137679</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540930137679</updated>
+    </task>
+    <task id="LOCAL-00007" summary="WhatsApp link edit">
+      <created>1540930735973</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540930735973</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35284000" />
+    <option name="totallyTimeSpent" value="36512000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -217,7 +230,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20163691" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20163691" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.329582" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50446427" side_tool="true" weight="0.20257235" />
@@ -283,7 +296,9 @@
     <MESSAGE value="centered header" />
     <MESSAGE value="viber chat" />
     <MESSAGE value="viber chat edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="viber chat edit" />
+    <MESSAGE value=" chat label edit" />
+    <MESSAGE value="WhatsApp link edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="WhatsApp link edit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -522,15 +537,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/myApp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="102">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="39" column="97" selection-start-line="39" selection-start-column="97" selection-end-line="39" selection-end-column="97" />
+        <state relative-caret-position="255">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
         </state>
       </provider>
     </entry>
