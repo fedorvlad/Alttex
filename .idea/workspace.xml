@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67087c1b-aedf-4c25-91ec-17c5ddd8ce3e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/myApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/myApp.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="17">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -30,8 +30,8 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="238">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -39,8 +39,8 @@
       <file leaf-file-name="myApp.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/myApp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="49" />
+            <state relative-caret-position="51">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -53,8 +53,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -67,9 +67,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/myApp.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/myApp.js" />
         <option value="$PROJECT_DIR$/data/header.html" />
       </list>
     </option>
@@ -147,7 +147,7 @@
       <workItem from="1540835695573" duration="851000" />
       <workItem from="1540890938724" duration="18257000" />
       <workItem from="1540925772279" duration="1739000" />
-      <workItem from="1540927860942" duration="7277000" />
+      <workItem from="1540927860942" duration="9829000" />
     </task>
     <task id="LOCAL-00001" summary="xml_">
       <created>1540836096242</created>
@@ -233,11 +233,32 @@
       <option name="project" value="LOCAL" />
       <updated>1540934659610</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="body white skin">
+      <created>1540935268859</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540935268859</updated>
+    </task>
+    <task id="LOCAL-00014" summary="body white skin">
+      <created>1540935309558</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1540935309558</updated>
+    </task>
+    <task id="LOCAL-00015" summary="dropdown-primary">
+      <created>1540937410382</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1540937410382</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40368000" />
+    <option name="totallyTimeSpent" value="42920000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -255,12 +276,12 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20163691" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.329582" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50446427" side_tool="true" visible="true" weight="0.20257235" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5052083" side_tool="true" visible="true" weight="0.20257235" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4955357" visible="true" weight="0.20257235" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49479166" visible="true" weight="0.20257235" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49925596" weight="0.329582" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985119" weight="0.329582" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -322,7 +343,9 @@
     <MESSAGE value="WhatsApp link edit" />
     <MESSAGE value="update logo" />
     <MESSAGE value="nav-nav-justified" />
-    <option name="LAST_COMMIT_MESSAGE" value="nav-nav-justified" />
+    <MESSAGE value="body white skin" />
+    <MESSAGE value="dropdown-primary" />
+    <option name="LAST_COMMIT_MESSAGE" value="dropdown-primary" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -542,34 +565,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/footer.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/myApp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="49" />
+        <state relative-caret-position="51">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="17">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state relative-caret-position="238">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
         </state>
       </provider>
     </entry>

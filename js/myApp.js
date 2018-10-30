@@ -4,10 +4,10 @@ var galeryHtml = '';
 
 // Start using JQuery
 $(document).ready(function(){
-console.log(serverURL +'data/header.html' );
+//console.log(serverURL +'data/header.html' );
     $('#header-for-all-website-id').load(serverURL + 'data/header.html');
     $('#footer-for-all-website-id').load(serverURL + 'data/footer.html');
-    console.log(serverURL +'data/footer.htmll' );
+
     $.get(serverURL + 'data/galery.json',
      function(data, status){
         if ( ! $.isEmptyObject(data) && Array.isArray(data) ) {
